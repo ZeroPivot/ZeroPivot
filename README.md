@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+[M/33/Gay, Lucerne, California, USA]
+
+I'm Arity. Full-time Artist and Programmer.
+
+Currently got a few string manipulation projects going on, and am going to release my webcomic manager/gallery once I sanitize the code.
+
+Still under construction.
+
+Thanks for dropping by!
+
+
+
 <!--
 **ZeroPivot/ZeroPivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
