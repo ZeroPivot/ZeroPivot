@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[M/33/Gay, Lucerne, California, USA]
+[M/33, Ukiah, California, USA]
 
 I'm Arity. Full-time Artist and Programmer.
 
