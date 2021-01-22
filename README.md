@@ -2,7 +2,7 @@
 
 [M/33, Ukiah, California, USA]
 
-I'm Arity. Full-time Artist and Programmer.
+I'm Arity. Full-time Artist and Computer Scientist.
 
 Currently got a few string manipulation projects going on, and am going to release my webcomic manager/gallery once I sanitize the code.
 
