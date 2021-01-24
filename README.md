@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[M/33, Ukiah, California, USA]
+[M/33, Lucerne, California, USA]
 
 I'm Arity. Full-time Artist and Computer Scientist.
 
