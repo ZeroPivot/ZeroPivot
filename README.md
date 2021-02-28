@@ -8,11 +8,7 @@ Currently got a few string manipulation projects going on, and am going to relea
 
 Specifically, I'm into Ruby and consider myself a Rubyist.
 
-I'm currently working on two server backends using Ruby/Sinatra/Puma, one of them being my webcomic at https://actorscomic.net.
-
-Also working on a game: https://aritywolf.itch.io/actors-rpg -- currently there isn't much, but Its going to update as I add to my code.
-
-Thanks for dropping by!
+I'm currently working on two server backends using Ruby/Sinatra/Puma, it is not currently open sourced.
 
 
 
