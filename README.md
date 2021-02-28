@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[M/33, Lucerne, California, USA]
-
-I'm Arity. Full-time Artist and Computer Scientist.
+I'm Arity. Full-time Artist && Computer Scientist.
 
 Currently got a few string manipulation projects going on, and am going to release my webcomic manager/gallery once I sanitize the code.
 
