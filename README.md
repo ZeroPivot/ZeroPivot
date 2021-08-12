@@ -8,7 +8,7 @@ Specifically, I'm into Ruby and consider myself a Rubyist.
 
 I'm currently working on two server backends using Ruby/Sinatra/Puma, it is not currently open sourced.
 
-
+Also beginning work on building a 2d RPG set in my webcomic universe, in DragonRuby
 
 <!--
 **ZeroPivot/ZeroPivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
