@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-I'm Arity. Full-time Artist && Computer Scientist.
+I'm Arity, a Computer Scientist.
 
-Currently got a few string manipulation projects going on, and am going to release my webcomic manager/gallery once I sanitize the code.
-
-Specifically, I'm into Ruby and consider myself a Rubyist.
-
-I'm currently working on two server backends using Ruby/Sinatra/Puma, it is not currently open sourced.
-
-Also beginning work on building a 2d RPG set in my webcomic universe, in DragonRuby
+I mostly study and code in Ruby, and am working on a server backend project in it, and a long-term game project in DragonRuby.
 
 <!--
 **ZeroPivot/ZeroPivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
