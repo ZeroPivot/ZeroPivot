@@ -7,7 +7,8 @@ I mostly study and code in Ruby, and am working on a server backend project with
 I am also starting a long-term game project in DragonRuby.
 
 📫 How to reach me: eigenfruit@gmail.com
-💬 Ask me about programming help, or even anything about Ruby
+
+💬 Ask me about Ruby
 <!--
 **ZeroPivot/ZeroPivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
