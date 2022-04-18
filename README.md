@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Arity, a Computer Scientist.
-
-I mostly study and code in Ruby, and am working on a server backend project with it.
+Arity here; I am a Computer Scientist & Mathematician who focuses on Algorithms primarily written in the Ruby Programming Language.
 
 I am also starting a long-term game project in DragonRuby.
 
+I work often with Server Backends
+
 📫 How to reach me: eigenfruit@gmail.com
 
-💬 Ask me about Ruby
+💬 Ask me about Ruby, LSL, Nginx, Perl, Php, JS, ...
 <!--
 **ZeroPivot/ZeroPivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
