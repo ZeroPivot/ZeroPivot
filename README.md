@@ -7,6 +7,8 @@ I am also starting a long-term game project in DragonRuby.
 I work often with Server Backends
 
 📫 How to reach me: eigenfruit@gmail.com
+📲Telegram: https://t.me/aritywolf
+
 
 💬 Ask me about Ruby, LSL, Nginx, Perl, Php, JS, ...
 <!--
