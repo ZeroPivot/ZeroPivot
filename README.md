@@ -1,5 +1,5 @@
 ### Hi there 👋
-TL;DR: Prime Directive = Interpreted Language Computing
+TL;DR: Algorithm Designer by trade
 
 Arity here; I am a Computer Scientist & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language.
 
