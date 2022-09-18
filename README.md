@@ -1,4 +1,5 @@
 ### Hi there 👋
+TL;DR: Prime Directive = Interpreted Language Computing
 
 Arity here; I am a Computer Scientist & Mathematician who focuses on Algorithms primarily written in the Ruby Programming Language.
 
@@ -17,8 +18,8 @@ I work often with Server Backends
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on ... A game engine written in DragonRuby called the Bash Asset engine
+- 🌱 I’m currently learning ... The Correlation between the "high level abstraction layer" of object oriented programming, and that of the lowest possible layer in the Ruby language layercake
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
