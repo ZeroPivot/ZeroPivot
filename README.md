@@ -1,7 +1,7 @@
 ### Hi there 👋
 TL;DR: Prime Directive = Interpreted Language Computing
 
-Arity here; I am a Computer Scientist & Mathematician who focuses on Algorithms primarily written in the Ruby Programming Language.
+Arity here; I am a Computer Scientist & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language.
 
 I am also starting a long-term game project in DragonRuby.
 
