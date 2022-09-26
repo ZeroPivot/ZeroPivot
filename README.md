@@ -1,5 +1,9 @@
 # I DID IT!!
 
+## Update 9.26.2022 - 3:46AM
+Worked a bit to understand *.github.io and now have a website on github! It is still a WIP, but you can see it here: https://ZeroPivot.github.io
+* TODO: Port my basic flat file blogging system to github.io
+
 ## Update 9.25.2022
 Most of my activity in the past has been directed towards the Partitioned_Array repository, and within lib, managed_partitioned_array.rb. 🌠
 
