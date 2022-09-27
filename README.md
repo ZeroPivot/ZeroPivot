@@ -1,5 +1,8 @@
 # I DID IT!!
 
+## Update 9.27.2022 - 10:34am
+* Fixed allocation bugs in partitioned array; it it now working as intended!
+
 ## Update 9.26.2022 - 3:46AM
 Worked a bit to understand *.github.io and now have a website on github! It is still a WIP, but you can see it here: https://ZeroPivot.github.io
 * TODO: Port my basic flat file blogging system to github.io
