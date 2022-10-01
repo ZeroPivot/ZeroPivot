@@ -1,5 +1,9 @@
 # I DID IT!!
 
+## Update 10.1.2022 - 2:25PM
+ManagedPartitionedArray v1.2.8
+* Fixed a bug through regression. Bug arose out of adding more code and not taking certain lines of code into account (`managed_partitioned_array.rb`)
+
 ## Update 9.27.2022 - 10:34am
 * Fixed allocation bugs in partitioned array; it it now working as intended!
 
