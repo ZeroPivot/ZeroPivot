@@ -5,6 +5,7 @@
 
 ## Focused Project
 https://github.com/ZeroPivot/partitioned_array
+Particularly: https://github.com/ZeroPivot/partitioned_array/blob/master/lib/managed_partitioned_array.rb
 
 ## Update 10.1.2022 - 2:25PM
 ManagedPartitionedArray v1.2.8
