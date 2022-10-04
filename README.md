@@ -3,6 +3,9 @@
 [![ZeroPivot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeropivot)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Focused Project
+https://github.com/ZeroPivot/partitioned_array
+
 ## Update 10.1.2022 - 2:25PM
 ManagedPartitionedArray v1.2.8
 * Fixed a bug through regression. Bug arose out of adding more code and not taking certain lines of code into account (`managed_partitioned_array.rb`)
