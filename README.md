@@ -5,6 +5,7 @@
 
 ## Focused Project
 https://github.com/ZeroPivot/partitioned_array
+
 Particularly: https://github.com/ZeroPivot/partitioned_array/blob/master/lib/managed_partitioned_array.rb
 
 ## Update 10.1.2022 - 2:25PM
@@ -28,7 +29,8 @@ At a basic level, ArrayOfHashes explains the theory of it in a full fledged ruby
 
 TODO: Create documentation for managed partitioned array (https://github.com/ZeroPivot/partitioned_array/blob/master/lib/managed_partitioned_array.rb) and the main, https://github.com/ZeroPivot/partitioned_array/ 🌠
 
-------------Bio
+Bio
+
 I am a Computer Scientist ROCKSTAR & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language.
 
 I am also starting a long-term game project in DragonRuby.
