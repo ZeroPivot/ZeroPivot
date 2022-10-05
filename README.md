@@ -8,6 +8,14 @@ https://github.com/ZeroPivot/partitioned_array
 
 Particularly: https://github.com/ZeroPivot/partitioned_array/blob/master/lib/managed_partitioned_array.rb
 
+Long term project to use this managed partitioned array on:
+
+* The basic array of hashes data structure that cen flexibly store any kind of json related data
+* Translating/Porting the ManagedPartitionedArray/PartitionedArray )https://github.com/ZeroPivot/partitioned_array, https://github.com/ZeroPivot/partitioned_array/blob/master/lib/managed_partitioned_array.rb) to PYTHON. 
+
+Long term project away from 100% ruby is porting every aspect of the array to Python - 10.5.2022 - 5:58PM
+
+
 ## Update 10.1.2022 - 2:25PM
 ManagedPartitionedArray v1.2.8
 * Fixed a bug through regression. Bug arose out of adding more code and not taking certain lines of code into account (`managed_partitioned_array.rb`)
