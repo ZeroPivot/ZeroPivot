@@ -1,4 +1,6 @@
 # I DID IT!!
+**I am now calling the partitioned array platform agnostic**
+
 
 ## Focused Project
 https://github.com/ZeroPivot/partitioned_array
