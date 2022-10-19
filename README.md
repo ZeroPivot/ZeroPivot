@@ -1,6 +1,8 @@
 # I DID IT!!
 **I am now calling the partitioned array platform agnostic**
 
+**Updated the readme file for the Managed Partitioned Array/Partitioned Array, there are bits and pieces on how to go about using it. If you need help or are curious, I'm but a DM away**
+
 
 ## Focused Project
 https://github.com/ZeroPivot/partitioned_array
@@ -38,29 +40,14 @@ TODO: Create documentation for managed partitioned array (https://github.com/Zer
 
 Bio
 
-I am a Computer Scientist ROCKSTAR & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language.
+I am a Computer Scientist ROCKSTAR & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language, as well as making furry art along the way~
 
 I am also starting a long-term game project in DragonRuby.
 
 I work often with Server Backends
 
 📫 How to reach me: eigenfruit@gmail.com
+📲 Telegram: https://t.me/aritywolf
+📲 Discord: ArityWolf#0001
 
-📲Telegram: https://t.me/aritywolf
-
-
-💬 Ask me about Ruby, LSL, Nginx, Perl, Php, JS, ...
-<!--
-**ZeroPivot/ZeroPivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ... A game engine written in DragonRuby called the Bash Asset engine
-- 🌱 I’m currently learning ... The Correlation between the "high level abstraction layer" of object oriented programming, and that of the lowest possible layer in the Ruby language layercake
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Ruby, Crystal, C, Javascript LSL, Nginx, Perl, Php, JS, ...
