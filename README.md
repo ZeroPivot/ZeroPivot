@@ -1,4 +1,7 @@
 # I DID IT!!
+
+![image info](rockstars.jpg)
+
 **I am now calling the partitioned array platform agnostic**
 
 **Updated the readme file for the Managed Partitioned Array/Partitioned Array, there are bits and pieces on how to go about using it. If you need help or are curious, I'm but a DM away**
