@@ -1,6 +1,6 @@
 # I DID IT!!
 
-![image info](rockstars.jpg)
+![image info](rockstar.jpg)
 
 **I am now calling the partitioned array platform agnostic**
 
