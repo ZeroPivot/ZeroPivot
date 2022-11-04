@@ -43,7 +43,7 @@ TODO: Create documentation for managed partitioned array (https://github.com/Zer
 
 Bio
 
-I am a Computer Scientist ROCKSTAR & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language, as well as making furry art along the way~
+I am a Computer Scientist & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language, as well as making furry art along the way~
 
 I am also starting a long-term game project in DragonRuby.
 
