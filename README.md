@@ -3,7 +3,7 @@
 ## Bio & Info
 
 
-I am a Computer Science Rockstar, Software Engineer & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language
+I am a formally trained Computer Scientist, Software Engineer & Mathematician, as well as partially self-taught Artist--who focuses on Algorithms primarily written in the Ruby Programming Language
 
 I am also starting a long-term game project in DragonRuby, and transitioning to becoming a full-time Indie Game Developer, doing the code and assets myself, making what music I can and buying assets to test the BashAsset engine at a more rapid pace
 
