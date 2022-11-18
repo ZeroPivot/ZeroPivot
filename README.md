@@ -3,22 +3,40 @@
 ## Bio & Info
 
 
-I am a Computer Science ROckstar, Software Engineer & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language
+I am a Computer Science Rockstar, Software Engineer & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language
 
 I am also starting a long-term game project in DragonRuby, and transitioning to becoming a full-time Indie Game Developer, doing the code and assets myself, making what music I can and buying assets to test the BashAsset engine at a more rapid pace
 
 I work often with Server Backends, Ruby, The Linden Scripting Language, C/C++, and now, Game Development in DragonRuby
 
 📫 How to reach me: eigenfruit@gmail.com
+
+
 📲 Telegram: https://t.me/aritywolf
+
+
 📲 Discord: ArityWolf#0001
+
+
 🐦 Twitter: https://twitter.com/ArityWolf
+
+
 🐦 Organization Twitter: https://twitter.com/Midscore_io
+
+
+
 🖼️ Gallery: https://aritywolf.net
+
+
 🗣️🎭🎨🖼️ "Actors: Computer Science Rockstars" (webcomic): https://compscirockstars.net
+
+
+
 🔢 Organization Homepage/URL / API Backend Server / 🏫 Landing Site (hudl.ink): https://midscore.io
 
+
 🚂 BashAsset Engine Builds: https://hudl.ink/bashasset_eng
+
 
 💬 Ask me about Ruby, Crystal, C, Javascript LSL, Nginx, Perl, Php, JS, ...
 
