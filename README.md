@@ -1,6 +1,29 @@
 # I DID IT!!
 
+## Bio & Info
 
+
+I am a Computer Science ROckstar, Software Engineer & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language
+
+I am also starting a long-term game project in DragonRuby, and transitioning to becoming a full-time Indie Game Developer, doing the code and assets myself, making what music I can and buying assets to test the BashAsset engine at a more rapid pace
+
+I work often with Server Backends, Ruby, The Linden Scripting Language, C/C++, and now, Game Development in DragonRuby
+
+📫 How to reach me: eigenfruit@gmail.com
+📲 Telegram: https://t.me/aritywolf
+📲 Discord: ArityWolf#0001
+🐦 Twitter: https://twitter.com/ArityWolf
+🐦 Organization Twitter: https://twitter.com/Midscore_io
+🖼️ Gallery: https://aritywolf.net
+🗣️🎭🎨🖼️ "Actors: Computer Science Rockstars" (webcomic): https://compscirockstars.net
+🔢 Organization Homepage/URL / API Backend Server / 🏫 Landing Site (hudl.ink): https://midscore.io
+
+🚂 BashAsset Engine Builds: https://hudl.ink/bashasset_eng
+
+💬 Ask me about Ruby, Crystal, C, Javascript LSL, Nginx, Perl, Php, JS, ...
+
+
+## Etc.
 
 **I am now calling the partitioned array platform agnostic**
 
@@ -40,17 +63,3 @@ Several days back I completed a project that took me since 2011 to accomplish. T
 At a basic level, ArrayOfHashes explains the theory of it in a full fledged ruby array that allocates up to infnity, and allows you to do things to arbitrary locations of the array. Partitioned Array is stricter and safer, and the essential data structure is an array of hashes. That is, ManagedPartitionedArray (partititioned_array repo) follows the array of hashes data structure in its internals, but with several lines of code and a change of logic, perhaps by a class inheritance, you could make  the partitioned array function however you want in terms of a data structure.🌠
 
 TODO: Create documentation for managed partitioned array (https://github.com/ZeroPivot/partitioned_array/blob/master/lib/managed_partitioned_array.rb) and the main, https://github.com/ZeroPivot/partitioned_array/ 🌠
-
-Bio
-
-I am a Computer Scientist & Mathematician, as well as an Artist--who focuses on Algorithms primarily written in the Ruby Programming Language, as well as making furry art along the way~
-
-I am also starting a long-term game project in DragonRuby.
-
-I work often with Server Backends
-
-📫 How to reach me: eigenfruit@gmail.com
-📲 Telegram: https://t.me/aritywolf
-📲 Discord: ArityWolf#0001
-
-💬 Ask me about Ruby, Crystal, C, Javascript LSL, Nginx, Perl, Php, JS, ...
