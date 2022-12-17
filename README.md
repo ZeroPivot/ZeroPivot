@@ -9,7 +9,7 @@ I am also starting a long-term game project in DragonRuby, and transitioning to 
 
 I work often with Server Backends, Ruby, The Linden Scripting Language, C/C++, and now, Game Development in DragonRuby
 
-📫 How to reach me: eigenfruit@gmail.com
+📫 How to reach me: eigenfruit@gmail.com, wolf.on.twitter@gmail.com, aritywolf@outlook.com
 
 
 📲 Telegram: https://t.me/aritywolf
