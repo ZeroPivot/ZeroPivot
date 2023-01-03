@@ -18,7 +18,7 @@ I work often with Server Backends, Ruby, The Linden Scripting Language, C/C++, a
 📲 Discord: ArityWolf#0001
 
 
-🐦 Twitter: https://twitter.com/ArityWolf
+🐦 Twitter: https://twitter.com/SimulWolf
 
 
 🐦 Organization Twitter: https://twitter.com/Midscore_io
