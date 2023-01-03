@@ -1,5 +1,11 @@
 # I DID IT!!
 
+## Main Project(s)
+
+Partitioned Array / File Context Managed Partitioned Array [Manager]
+
+* README: https://github.com/ZeroPivot/partitioned_array#readme
+
 ## Bio & Info
 
 
