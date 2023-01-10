@@ -2,9 +2,20 @@
 
 ## Main Project(s)
 
-Partitioned Array / File Context Managed Partitioned Array [Manager]
+### Partitioned Array | Managed Partitioned Array / File Context Managed Partitioned Array [Manager]
+
+Partitioned Array Library Repo: https://github.com/ZeroPivot/partitioned_array
 
 * README: https://github.com/ZeroPivot/partitioned_array#readme
+* YARD Documentation: https://midscore.io/partitioned_array_library/doc/index.html
+
+## Legacy Released Projects
+
+TBA/Work In Progress
+
+## Game and Game Theory Algorithma
+
+TBA/Work in Progress
 
 ## Bio & Info
 
@@ -42,6 +53,10 @@ I work often with Server Backends, Ruby, The Linden Scripting Language, C/C++, a
 
 
 🚂 BashAsset Engine Builds: https://hudl.ink/bashasset_eng
+
+Organization: https://midscore.io
+
+HUDlink API: https://hudl.ink
 
 
 💬 Ask me about Ruby, Crystal, C, Javascript LSL, Nginx, Perl, Php, JS, ...
