@@ -9,6 +9,41 @@ Partitioned Array Library Repo: https://github.com/ZeroPivot/partitioned_array
 * README: https://github.com/ZeroPivot/partitioned_array#readme
 * YARD Documentation: https://midscore.io/partitioned_array_library/doc/index.html
 
+### Usage
+* Installation
+
+`git clone https://github.com/ZeroPivot/partitioned_array.git`
+
+* In Ruby:
+
+`require 'lib/file_context_managed_partitioned_array_manager'`
+
+* Data structures available:
+
+```ruby
+FileContextManagedPartitionedArrayManager
+FileContextManagedPartitionedArray
+ManagedPartitionedArray
+PartitionedArray
+```
+
+* "Inheritance Tree"
+
+`FileContextManagedPartitonedArrayManager.FileContextManagedPartitionedArray.(ManagedPartitionedArray < PartitionedArray)`
+
+* Example:
+
+```ruby
+a = FileContextManagedPartitionedArrayManager.new
+a.database_table("database", "table").get(0) # Resembles the "inheritance" tree in terms of object calls, and ManagedPartitionedArray < PartitionedArray implies that ManagedPartitionedArray inherits from PartitionedArray, and MPA < PA is being called with get(0)
+```
+
+### Note
+
+A rubygem will be available at some point, or not--depending upon time. For the time being, cloning and requiring whichever parts of the partitioned array you want works fine. And an update is as easy as a `git pull` in the same directory. Rubygems are honestly a hassle and all they really are for is making access faster and resolving directories, to put it into a single name you can require.
+
+At the time, I would suggest just requiring 'file_context_managed_partitioned_array_manager' and all those data structures become available; the ones higher up the heirarchy depending upon the ones below them. That is, they are independent libraries on their own, but the FileContextManagedPartitionedArrayManager was the goal of this data structure algorithm project.
+
 ## Legacy Released Projects
 
 TBA/Work In Progress
