@@ -2,6 +2,20 @@
 
 ## Main Project(s)
 
+### Recent Update Milestones (1/13/2023 - 2:11AM)
+
+#### Line Database, Line Reader, Line Database Setup
+* Created a set of helper functions to maintain a hash array set of Partitioned Array Databases:
+
+`lib/line_reader.rb`
+* Helper functions to deal with line_database
+
+`lib/line_database_setup.rb`
+* Setup the PartitionedArrayManager databases; specify the database names you want, which is written to a file.
+
+`lib/line_database.rb`
+* `load_pad` helper function will load db_list.txt into a hash with those names referring to the PAM database objects
+
 ### Partitioned Array [Database] | Managed Partitioned Array / File Context Managed Partitioned Array [Manager]
 
 Partitioned Array Library Repo: https://github.com/ZeroPivot/partitioned_array
