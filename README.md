@@ -47,6 +47,11 @@ ManagedPartitionedArray
 PartitionedArray
 ```
 
+* Helper Functions
+```ruby
+load_pad # lib/line_database.rb
+```
+
 * "Inheritance Tree"
 
 `PartitionedArrayDatabase.FileContextManagedPartitonedArrayManager.FileContextManagedPartitionedArray.(ManagedPartitionedArray < PartitionedArray)`
