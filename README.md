@@ -49,7 +49,7 @@ PartitionedArray
 
 * Helper Functions
 ```ruby
-load_pad # lib/line_database.rb
+pad_hash_database = load_pad # lib/line_database.rb
 ```
 
 * "Inheritance Tree"
