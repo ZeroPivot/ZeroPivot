@@ -1,5 +1,7 @@
 # I DID IT!!
 
+>> **ARITYWOLF'S TRANSCRIPT**: https://midscore.io/r/aritywolfs-transcript <<
+
 Fundamental Data Structure Algorithm: The Partitioned Array and LineDB Libraries: https://github.com/ZeroPivot/partitioned_array
 
 ## Bio & Info
