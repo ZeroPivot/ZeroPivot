@@ -1,13 +1,14 @@
 # I DID IT!!
+>> **ArityWolf's Fundamental Data Structure Algorithm**: The Partitioned Array and LineDB Libraries: https://github.com/ZeroPivot/partitioned_array
 
 >> **ARITYWOLF'S TRANSCRIPT**: https://midscore.io/r/aritywolfs-transcript <<
 >> 
->> **EXPERIMENTAL BLOG/GALLERY PROJECT ALPHA TEST**: https://kejento.net/blog/aritywolf (art) and https://kejento.net/blog/simulwolf (tech) and https://onemoonpla.net (spiritual) -- Using my LineDB blogging software 
+>> **EXPERIMENTAL ***LineDB (Partitioned Array)*** BLOG/GALLERY PROJECT ALPHA TEST**: https://kejento.net/blog/aritywolf (art) and https://kejento.net/blog/simulwolf (tech) and https://onemoonpla.net (spiritual) -- Using my LineDB blogging software 
 * **(e-mail or telegram me for an invite)**
 
 📫 How to reach me: city.wolf.in.rural@gmail.com
 
-Fundamental Data Structure Algorithm: The Partitioned Array and LineDB Libraries: https://github.com/ZeroPivot/partitioned_array
+
 
 ## Bio & Info
 
