@@ -3,10 +3,12 @@
 
 >> **ARITYWOLF'S TRANSCRIPT**: https://midscore.io/r/aritywolfs-transcript <<
 >> 
->> **EXPERIMENTAL ***LineDB (Partitioned Array)*** BLOG/GALLERY PROJECT ALPHA TEST**: https://kejento.net/blog/aritywolf (art) and https://kejento.net/blog/simulwolf (tech) and https://onemoonpla.net (spiritual) -- Using my LineDB blogging software 
-* **(e-mail or telegram me for an invite)**
+>> **EXPERIMENTAL ***LineDB (Partitioned Array)*** BLOG/GALLERY PROJECT ALPHA TEST**: https://kejento.net/blog/aritywolf (art) and https://kejento.net/blog/simulwolf (tech) and https://onemoonpla.net (spiritual) -- Using my LineDB blogging software <<
+* **(e-mail or telegram me for an invite)** <<
 
-📫 How to reach me: city.wolf.in.rural@gmail.com
+>> **WEBCOMIC (COMPUTER SCIENCE ROCKSTARS): https://compscirockstars.net <<
+
+📫 >> How to reach me: **city.wolf.in.rural@gmail.com** <<
 
 
 
