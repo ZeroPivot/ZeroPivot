@@ -3,7 +3,7 @@
 
 >> **ARITYWOLF'S TRANSCRIPT**: https://midscore.io/r/aritywolfs-transcript <<
 
->> **EXPERIMENTAL ***LineDB (Partitioned Array)*** BLOG/GALLERY PROJECT ALPHA TEST**: https://kejento.net/blog/aritywolf (art) and https://kejento.net/blog/simulwolf (tech) and https://onemoonpla.net (spiritual) -- Using my LineDB blogging software <<
+>> **EXPERIMENTAL ***LineDB (Partitioned Array)*** BLOG/GALLERY PROJECT ALPHA TEST**: https://onemoonpla.net/blog/aritywolf (art) and https://onemoonpla.net/blog/simulwolf (tech) and https://onemoonpla.net/blog/onemoondogg (spiritual) -- Using my LineDB blogging software <<
 * **(e-mail or telegram me for an invite)** <<
 
 >> **TO DO LIST/PRIORITY LIST**: https://midscore.io/r/aritywolfs-todo-list
