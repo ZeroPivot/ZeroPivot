@@ -1,6 +1,6 @@
 # COMPUTER SCIENCE ROCKSTAR!!!
 
-Creator and maintainer of Midscore I/O and the Quantum Turing Machine equivelent (Managed) Partitioned Array
+Creator and maintainer of Midscore I/O and the Quantum Turing Machine equivelent (Managed) Partitioned Array: https://github.com/Midscore-IO/partitioned_array
 
 Business Contact: midscore.io@gmail.com
 
