@@ -14,13 +14,19 @@ Telegram: https://t.me/ArityWolf
 https://compscirockstars.net/ (UNDER CONSTRUCTION)
 
 
-# Resume
+# resumé
 
 https://hudl.ink/u/0
 
+# LINKS
+
+* https://thefieldtester.net/
+* https://thefieldtesters.net/
+* https://midscore.io/
+* https://deviantart.com/archyeen
+* https://twitter.com/archyeen
 
 # COMPLEXITY HUMOR
-
 
 ![Computer Science Rockstar](https://raw.githubusercontent.com/ZeroPivot/ZeroPivot/main/rockstar.jpg)
 
