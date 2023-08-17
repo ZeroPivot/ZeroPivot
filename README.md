@@ -1,6 +1,6 @@
 # COMPUTER SCIENCE ROCKSTAR!!!
 
-Founder/CEO of Midscore I/O and the (Managed) Partitioned Array/LineDB: https://github.com/Midscore-IO/partitioned_array
+Founder/CEO of Midscore I/O and the (Managed) Partitioned Array/LineDB: https://github.com/ZeroPivot/partitioned_array
 
 Business Contact: midscore.io@gmail.com
 
