@@ -24,7 +24,7 @@ https://hudl.ink/u/0
 * https://thefieldtesters.net/
 * https://midscore.io/
 * https://deviantart.com/archyeen
-* https://twitter.com/archyeen
+* https://twitter.com/FieldYeen
 
 # COMPLEXITY HUMOR
 
