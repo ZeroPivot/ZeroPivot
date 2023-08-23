@@ -17,6 +17,7 @@ https://compscirockstars.net/ (UNDER CONSTRUCTION)
 # resumé
 
 https://hudl.ink/u/0
+https://hudl.ink/u/19
 
 # LINKS
 
