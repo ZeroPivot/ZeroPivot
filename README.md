@@ -8,17 +8,6 @@ Personal Contact: city.wolf.in.rural@gmail.com
 
 Telegram: https://t.me/ArityWolf
 
-(I don't use discord)
-
-
-https://compscirockstars.net/ (UNDER CONSTRUCTION)
-
-
-# resumé
-
-https://hudl.ink/u/0
-https://hudl.ink/u/19
-
 # LINKS
 
 * https://thefieldtester.net/
