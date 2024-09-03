@@ -1,10 +1,13 @@
+# Main Project
+## Partitioned Array/LineDB
+https://github.com/ZeroPivot/partitioned_array
 
+# ETC
 
+* Landing Page: e4695.net/r/landingpage (more info)
 
-RESUMé: https://aritywolf.com/files/ZeroPivotFieldYeen_Resume.pdf
+* IM/DM on steam (I don't like Telegram or DIscord): https://steamcommunity.com/id/ArityWolf/ -- FRIEND CODE: 3374595
 
-IM/DM on steam (I don't like Telegram or DIscord): https://steamcommunity.com/id/ArityWolf/ -- FRIEND CODE: 3374595
+* Email Contact: aritywolf@gmail.com (suggest contacting me on X.com, Steam, or Second Life instead)
 
-Email Contact: aritywolf@gmail.com
-
-Second Life Account: ArityWolf Resident
+* Second Life Account: ArityWolf Resident
